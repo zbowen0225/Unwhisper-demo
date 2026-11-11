@@ -1,6 +1,6 @@
 # UnWhisper: audio samples
 
-Static demo page for *UnWhisper: enrolment-free whispered-to-normal speech conversion via register-anchored
+Static demo page for *UnWhisper: enrolment-free whisper-to-normal speech conversion via register-anchored
 conditional flow matching with explicit phonation restoration*. Twelve held-out wTIMIT speakers, two sentences
 each, converted by UnWhisper and four baselines, with log-mel spectrograms. Served by GitHub Pages:
 https://zbowen0225.github.io/Unwhisper-demo/
